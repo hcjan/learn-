@@ -7,4 +7,6 @@ Cd .. 返回上一级目录
 Git add 把文件加入到缓存区
 Git commit -m”  ” m后面写改动信息
 git status 查看仓库
-git diff 查看文件不同
+git diff 查看文件内容
+git log 查看提交记录
+
