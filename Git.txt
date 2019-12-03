@@ -1,0 +1,10 @@
+Git(二进制文件只能看到增加减少文件 无法看到真实改动)
+Pwd 显示当前目录
+Mkdir 创建新目录
+Git init 变为git可管理	的仓库
+Ls -ah 查看目录先文件
+Cd .. 返回上一级目录
+Git add 把文件加入到缓存区
+Git commit -m”  ” m后面写改动信息
+git status 查看仓库
+git diff 查看文件不同
