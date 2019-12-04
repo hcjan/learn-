@@ -1,0 +1,21 @@
+alt+backspce 删除前一个单词
+tab 命令补全提示
+ctrl+c 终止运行
+ctrl+a 移动光标至行头（home）
+ctrl+e 移动光标到尾部 （end）
+ctrl+k 删除光标所在位置到行末
+shift+pgup 终端上移
+shift+pgon 终端下移
+上箭头 显示上一次输入的指令
+touch 创建文件
+* 通配符 省略之后自动匹配（*.txt）
+ls 显示当前目录下文件
+touch a{1..10}_.txt 创建多个文件
+通配符：
+       * 匹配0或多个字符
+       ？匹配任意一个字符
+       [list] 匹配list中任意单一字符
+       [^list] 匹配除list中的任意单一字符以外的字符
+       [c1-c2] 匹配c1-c2任意单一字符
+       {c1..c2}匹配c1-c2全部字符
+       

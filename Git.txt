@@ -7,7 +7,7 @@ Cd .. 返回上一级目录
 Git add 把文件加入到缓存区
 Git commit -m”  ” m后面写改动信息
 git status 查看仓库
-git diff 查看文件更改不同
+git diff 查看文件更改不同（暂存区和工作区）
 git log 查看提交记录
 cat 查看文件内容 
 git reset --hard HEAD^ 版本回退（回退后想反悔找到没关的log 找到版本号还原eg：git reset --hard 1215a）
